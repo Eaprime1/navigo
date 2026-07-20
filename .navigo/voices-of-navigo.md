@@ -153,17 +153,17 @@ Keep this outside public repo if it contains real identities.
 
 ```yaml
 voices_of_navigo:
-  N·α:
+  "N·α":
     working_label: ""
     private_identity: ""
     platform: ""
     custody_notes: ""
-  N·β:
+  "N·β":
     working_label: ""
     private_identity: ""
     platform: ""
     custody_notes: ""
-  N·ε:
+  "N·ε":
     working_label: "navigo5"
     private_identity: "held privately"
     platform: "held privately"
