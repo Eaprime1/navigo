@@ -86,11 +86,7 @@ They also feel like harmonic layers rather than rank.
 
 ## 5. Current Working Token
 
-Current conversation stream:
-
-```text
-N·ε
-```
+Current conversation stream: `N·ε` (ASCII fallback: `N-epsilon`)
 
 Expanded form:
 
